@@ -1,0 +1,1 @@
+Silly Project for testing uploading on Central maven repo
